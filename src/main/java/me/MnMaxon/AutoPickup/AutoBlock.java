@@ -116,5 +116,7 @@ public class AutoBlock {
         convertNum.put(Material.EMERALD, 9);
         convertTo.put(Material.GOLD_INGOT, Material.GOLD_BLOCK);
         convertNum.put(Material.GOLD_INGOT, 9);
+        convertTo.put(Material.GOLD_NUGGET, Material.GOLD_BLOCK);
+        convertNum.put(Material.GOLD_NUGGET, 81);
     }
 }
